@@ -1,0 +1,2 @@
+# -Smart-Coma-Patient-Monitoring-System-Using-Vibration-Alerts-and-Temperature-Monitoring.-
+Smart Coma Patient Monitoring System Using Vibration Alerts and Temperature Monitoring is an Arduino-based healthcare system designed to monitor coma patients continuously. It tracks body temperature and detects movement through sensors. When abnormal conditions are detected, the system provides instant alerts, ensuring improved patient safety.
